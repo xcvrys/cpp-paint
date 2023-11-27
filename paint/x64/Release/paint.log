@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\kamil\Desktop\paint\paint\main.cpp(463,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(628,50): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(648,29): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(673,46): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(693,67): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(696,67): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(700,50): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(704,50): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(710,50): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(719,42): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(784,17): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+  Generating code
+  1 of 442 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  paint.vcxproj -> C:\Users\kamil\Desktop\paint\x64\Release\paint.exe

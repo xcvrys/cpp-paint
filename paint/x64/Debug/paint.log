@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\kamil\Desktop\paint\paint\main.cpp(1380,29): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(1407,67): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(1410,67): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(1414,50): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(1418,50): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(1434,54): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(1437,46): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+C:\Users\kamil\Desktop\paint\paint\main.cpp(1503,17): warning C4267: 'argument': conversion from 'size_t' to 'u32', possible loss of data
+  paint.vcxproj -> C:\Users\kamil\Desktop\paint\x64\Debug\paint.exe
